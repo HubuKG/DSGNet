@@ -1,4 +1,4 @@
-# DSGNet
+# DSGNet: Decoupled Semantic Graph Neural Network for Knowledge Graph Embedding
  
 DSGNet was implemented using PyTorch, with a CPU (Intel Xeon Gold6330) and a GPU (RTX3090). DSGNet employs an encoder-decoder architecture comprising three modules:
 - The Semantic Decouple and Correlation Compute Module
