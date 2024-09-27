@@ -38,3 +38,17 @@ python code/run.py
 # WN18RR
 python code/run.py dataset=WN18RR
 # or you can modify parameters in `config/`
+```
+
+## Cite
+```shell script
+@article{DSGNet,
+   author = {Li, Zhifei and Huang, Wei and Gong, Xuchao and Luo, Xiangyu and Xiao, Kui and Deng, Honglian and Zhang, Miao and Zhang, Yan},
+   title = {Decoupled semantic graph neural network for knowledge graph embedding},
+   journal = {Neurocomputing},
+   volume = {611},
+   pages = {128614},
+   year = {2025}
+}
+```
+
