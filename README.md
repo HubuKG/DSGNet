@@ -28,7 +28,7 @@ The overview of DSGNet:
 
 
 ## Model Training
-```shell script
+```
 
 # set the config/config.yaml `project_dir` field to your project path
 
@@ -41,7 +41,7 @@ python code/run.py dataset=WN18RR
 ```
 
 ## Cite
-```shell script
+```
 @article{DSGNet,
    author = {Li, Zhifei and Huang, Wei and Gong, Xuchao and Luo, Xiangyu and Xiao, Kui and Deng, Honglian and Zhang, Miao and Zhang, Yan},
    title = {Decoupled semantic graph neural network for knowledge graph embedding},
